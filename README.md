@@ -8,9 +8,13 @@ The Motor Vehicle Collisions crash dataset contains details on the crash event. 
 
 To be able to manipulate the dataset, I imported CVS file into a table using PostgreSQL tool called pgAdmin 4. 
 First, I created a new table named public."Motor Vehicle Collisions" with similar columns as in the original dataset. 
-Then, I imported original dataset CSV file into the  table Public."Citywide Payroll Data Fiscal Year", using ```COPY``` statement as follows:
+Then, I imported original dataset CSV file into the  table public."Motor Vehicle Collisions", using ```COPY``` statement as follows:
 
 ![importing table](https://user-images.githubusercontent.com/89424060/159693322-ef630a2f-3f7b-4cc3-87b7-9f573840e278.png)
+
+The table got successfully imported:
+
+![Import Success](https://user-images.githubusercontent.com/89424060/159693962-a687d7ec-21e1-4149-afc5-182edb15f33c.png)
 
 
 
