@@ -10,6 +10,10 @@ To be able to manipulate the dataset, I imported CVS file into a table using Pos
 First, I created a new table named public."Motor Vehicle Collisions" with similar columns as in the original dataset. 
 Then, I imported original dataset CSV file into the  table Public."Citywide Payroll Data Fiscal Year", using ```COPY``` statement as follows:
 
+![importing table](https://user-images.githubusercontent.com/89424060/159693322-ef630a2f-3f7b-4cc3-87b7-9f573840e278.png)
+
+
+
 
 
 
