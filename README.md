@@ -20,7 +20,7 @@ The table got successfully imported:
 According to Motor Vehicle Collisions-Crashes data, 110495 accidents happened in New York City in 2021.
 
 
-![Total Num Crashes 2021](https://user-images.githubusercontent.com/89424060/159751885-9fc04d1d-e735-42bc-81d1-75b5c1f426c2.png)
+![Total Crashes](https://user-images.githubusercontent.com/89424060/159755041-6b6f35a9-1469-43de-9993-c1c64bad4616.png)
 
 
 
