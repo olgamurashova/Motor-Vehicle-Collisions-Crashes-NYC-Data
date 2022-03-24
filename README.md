@@ -22,6 +22,10 @@ According to Motor Vehicle Collisions-Crashes data, 110495 accidents happened in
 
 ![Total Crashes](https://user-images.githubusercontent.com/89424060/159755041-6b6f35a9-1469-43de-9993-c1c64bad4616.png)
 
+Interesting finding - most crashes happened around/at midnight according to the Motor Vehicle Collisions-Crashes dataset:
+
+
+
 
 
 
