@@ -52,7 +52,7 @@ ORDER BY 6 DESC;
 5. Filtering the data to retun the time when most of the crashes occured in 2021:
 
 SELECT "CRASH TIME",
-  COUNT(*) AS "MOST FREQUENT TIME"
+  COUNT(*) AS "COUNT"
 FROM public."Motor Vehicle Collisions"
 WHERE "CRASH DATE" BETWEEN '2021-01-01' AND '2021-12-31'
 GROUP BY 1
