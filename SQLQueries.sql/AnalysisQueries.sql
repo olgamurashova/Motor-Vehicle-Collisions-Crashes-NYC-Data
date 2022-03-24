@@ -13,6 +13,28 @@ WHERE "CRASH DATE" BETWEEN '2021-01-01' AND '2021-12-31';
 
 3. Counting total number of injured persons, pedestrians, cyclists and motorists in 2021:
 
+SELECT 
+SUM("NUMBER OF PERSONS INJURED")
+FROM public."Motor Vehicle Collisions"
+WHERE "CRASH DATE" BETWEEN '2021-01-01' AND '2021-12-31';
+
+SELECT 
+SUM("NUMBER OF PEDESTRIANS INJURED")
+FROM public."Motor Vehicle Collisions"
+WHERE "CRASH DATE" BETWEEN '2021-01-01' AND '2021-12-31';
+
+SELECT 
+SUM("NUMBER OF CYCLIST INJURED")
+FROM public."Motor Vehicle Collisions"
+WHERE "CRASH DATE" BETWEEN '2021-01-01' AND '2021-12-31';
+
+SELECT 
+SUM("NUMBER OF MOTORIST INJURED")
+FROM public."Motor Vehicle Collisions"
+WHERE "CRASH DATE" BETWEEN '2021-01-01' AND '2021-12-31';
+
+
+
 
 
 
